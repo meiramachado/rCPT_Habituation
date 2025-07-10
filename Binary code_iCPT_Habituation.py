@@ -63,6 +63,6 @@ def generate_binary_file(input_folder, output_folder, filename_prefix="DESKTOP")
 
 # Example usage
 generate_binary_file(
-    input_folder=r"/Users/meiramaria/Documents/Data/Dopamine Sensor/Autoshaping/Cohort 1 (M1 to M14)/Coh 1 - Habituation/Habituation 2 - Day 1", 
-    output_folder=r"/Users/meiramaria/Documents/Data/Dopamine Sensor/Autoshaping/Cohort 1 (M1 to M14)/Coh 1 - Habituation/Habituation 2 - Day 1"
+    input_folder=r"add your path", 
+    output_folder=r"add your path"
 )
